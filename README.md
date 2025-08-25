@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm YOUR NAME
+Welcome to my GitHub profile! I’m a Media Studies at SIUE
 
-<!--
-**atrepka/atrepka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This semester I’m working on projects in R/RStudio and documenting progress
+in my weekly journal.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m learning this term
+- R, RStudio, and Quarto for data analysis & reporting
+- Git + GitHub for version control and collaboration
+- Research methods and reproducible workflows
+- 
+## Find me
+- Email: [your email or university email, optional]
+- Website/Portfolio: [link, optional]
+- LinkedIn: [link, optional]
+- 
+## Current tools
+- **Languages:** R, Markdown
+- **Tools:** RStudio, Quarto, GitHub
+> Privacy note: keep personal info minimal; use links you’re comfortable
+sharing publicly.
+> 
+<!-- Badges/images are optional; add alt text for accessibility. -->
